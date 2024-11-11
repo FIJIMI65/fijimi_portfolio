@@ -1,7 +1,7 @@
 # fijimi_portfolio
 Data Science and Machine Learning Portfolio
 
-[ML PCA ANALYSIS]([https://www.example.com](https://github.com/FIJIMI65/fijimi_portfolio/blob/main/README.md))
+[House Data ML/PCA ANALYSIS](https://github.com/FIJIMI65/fijimi_portfolio.git)
 This report aims to analyze housing data to determine the impact of various factors on house values. Specifically, we will explore how missing data in ‘LIVING AREA’ affects the analysis, including t-tests and
 classification models and apply various machine learning techniques to predict house values.
 Aims and Objectives
